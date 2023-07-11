@@ -3,7 +3,9 @@
 ![image](https://github.com/aztecprod/Index/assets/25949605/8babeb59-9590-4ea7-96ff-9d4e65f1c59a)
 ![image](https://github.com/aztecprod/Index/assets/25949605/eece72a4-f882-4c98-82fd-b8971c73d4c4)
 ![image](https://github.com/aztecprod/Index/assets/25949605/d3784799-217f-488a-a8e3-ece99f74516d)
+
 До оптимизации:
+
 ![image](https://github.com/aztecprod/Index/assets/25949605/94cc7f2c-fa2b-4ba5-87a9-983f7a22896a)
 
 Можно убрать из Select “over (partition by c.customer_id, f.title)”, ”distinct”.
