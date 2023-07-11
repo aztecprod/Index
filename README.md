@@ -20,4 +20,7 @@
 
 ![image](https://github.com/aztecprod/Index/assets/25949605/0d52b2d3-65cb-44f5-8ccc-0d49c5d30f20)
 
-В создании дополнительных индексов необходимости не увидел.
+После создания индекса:
+
+![image](https://github.com/aztecprod/Index/assets/25949605/415d0fa9-be8a-4b17-8b75-feda8101e871)
+
