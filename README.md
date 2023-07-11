@@ -25,7 +25,7 @@
 
 После создания индекса:
 
-'''
+"""
 > Table scan on <temporary>  (actual time=3.69..3.73 rows=391 loops=1)\n
 > 
   -> Aggregate using temporary table  (actual time=3.69..3.69 rows=391 loops=1)\n
@@ -42,5 +42,5 @@
   
   -> Index lookup on p using data_payment_id (payment_date=r.rental_date)  (cost=0.25 rows=1) (actual time=0.00217..0.00269 rows=1.01 loops=634)\n'
 
-'''
+"""
 
