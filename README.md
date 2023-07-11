@@ -14,7 +14,8 @@
 
 Добавить группировку по имени.
 
-![image](https://github.com/aztecprod/Index/assets/25949605/7b95f29d-3c92-41b6-965f-cc6f613ee739)
+![image](https://github.com/aztecprod/Index/assets/25949605/a0fbe1b1-c604-42cb-8901-a79e8e9e56df)
+
 
 После оптимизации:
 
